@@ -22,11 +22,11 @@ skill:
       color : "#fdb157"
       
     - title : "Desain"
-      progress : "80%"
+      progress : "50%"
       color : "#9473e6"
       
     - title : "Microsoft Office"
-      progress : "80%"
+      progress : "50%"
       color : "#bdecf6"
       
     - title : "Web Developer"

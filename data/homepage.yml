@@ -18,7 +18,7 @@ skill:
   title : "Keahlian"
   item:
     - title : "Service Komputer"
-      progress : "90%"
+      progress : "70%"
       color : "#fdb157"
       
     - title : "Desain"

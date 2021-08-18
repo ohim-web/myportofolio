@@ -1,6 +1,6 @@
 # default configuration
-baseURL = "https://meweb.vercel.app/"
-languageCode = "en-us"
+baseURL = "https://ohim.netlify.app/"
+languageCode = "en-id"
 summaryLength = "10"
 theme = "ohim"
 title = "ARsolution"

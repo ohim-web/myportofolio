@@ -94,7 +94,7 @@ expire_days = 2
 # social site
 [[params.social]]
 icon = "ti-facebook"
-URL = "https://web.facebook.com/ar.oimkun22"
+URL = "https://www.facebook.com/okomputerhim"
 
 [[params.social]]
 icon = "ti-instagram"

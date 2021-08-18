@@ -3,7 +3,7 @@ work_process:
   enable : true
   title : "Proses Kerja"
   item:
-  - title : "Research and Plan"
+  - title : ""
     icon : "images/icons/plan.png"
     content : ""
     

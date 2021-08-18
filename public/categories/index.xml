@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Abdul-Rohim</title>
+    <link>https://ohim.vercel.app/categories/</link>
+    <description>Recent content in Categories on Abdul-Rohim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Apr 2021 06:14:34 +0000</lastBuildDate><atom:link href="https://ohim.vercel.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>logo</title>
+      <link>https://ohim.vercel.app/categories/logo/</link>
+      <pubDate>Wed, 07 Apr 2021 06:14:34 +0000</pubDate>
+      
+      <guid>https://ohim.vercel.app/categories/logo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pamflet</title>
+      <link>https://ohim.vercel.app/categories/pamflet/</link>
+      <pubDate>Thu, 04 Mar 2021 06:14:34 +0000</pubDate>
+      
+      <guid>https://ohim.vercel.app/categories/pamflet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

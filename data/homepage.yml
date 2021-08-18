@@ -1,0 +1,160 @@
+# banner
+banner:
+  title : "Selamat Datang"
+
+# about
+about:
+  enable : true
+  content : "
+Perkenalkan Nama saya Abdul Rohim, saya adalah seorang freelancer desain. dan saya bekerja di dunia pendidikan menjadi Staff T.U Serta Guru Honorer Teknik Komputer dan Jaringan"
+  button:
+    enable : true
+    label : "Lebih Lanjut"
+    URL : "about"
+
+# skill
+skill:
+  enable : true
+  title : "Keahlian"
+  item:
+    - title : "Service Komputer"
+      progress : "90%"
+      color : "#fdb157"
+      
+    - title : "Desain"
+      progress : "80%"
+      color : "#9473e6"
+      
+    - title : "Microsoft Office"
+      progress : "80%"
+      color : "#bdecf6"
+      
+    - title : "Web Developer"
+      progress : "70%"
+      color : "#ffbcaa"
+
+# experience
+experience:
+  enable : true
+  title : "Pengalaman"
+  item: 
+    - logo : "images/experience/icon-1.png"
+      title : "Service Center Komputer"
+      company : "GEGES KOMPUTER"
+      duration : "Jan 2018 - April 2018"
+      
+    - logo : "images/experience/icon-2.png"
+      title : "OperatorProduksi"
+      company : "PT. ALEXINDO PLANT 2"
+      duration : "Jul 2019 - Des 2019"
+      
+    - logo : "images/experience/icon-1.png"
+      title : "Staff T.U & Guru Produktif TKJ"
+      company : "SMK HEMAZ KARANGWARENG"
+      duration : "Apr 2020 - Present"
+
+# education
+education:
+  enable : true
+  title : "Pendidikan"
+  item:
+    - title : "SDN 2 CANGKUANG"
+      year : "2007-2013"
+      academy : "Cangkuang, Kec. Babakan, Kab. Cirebon"
+      
+    - title : "SMPN 2 BABAKAN"
+      year : "2013-2016"
+      academy : "Cangkuang, Kec. Babakan, Kab. Cirebon"
+      
+    - title : "SMK HEMAZ KARANGWARENG"
+      year : "2017-2020"
+      academy : "Karangwareng, Kec. Karangwareng, Kab. Cirebon"
+      
+    
+
+# service
+service:
+  enable : true
+  title : "Melayani"
+  item:
+    - title : "Service Komputer"
+      icon : "ti-desktop"
+      content : ""
+      highlighted : false
+
+    - title : "Design"
+      icon : "ti-vector"
+      content : ""
+      highlighted : true
+
+    - title : "Microsoft Office"
+      icon : "ti-bar-chart"
+      content : ""
+      highlighted : false
+
+# portfolio
+portfolio:
+  enable : true
+  title : "Portfolio"
+  item_show : 10
+  # portfolio item comes from 'data/portfolio.yml' item.
+
+# testimonial
+testimonial:
+  enable : false
+  title : "Testimonials"
+  item:
+    - name : "Jesica Gomez"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      
+    - name : "Shirley Scot"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      
+    - name : "Jessica Julie"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+
+# client logo slider
+clients_logo_slider:
+  enable : false
+  item:
+    - logo : "images/clients-logo/client-logo-1.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-2.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-3.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-4.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-1.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-2.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-3.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-4.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "#"
+
+# blog
+blog:
+  enable : false
+  title : "produk"
+  # blog post comes from "content/produk" folder

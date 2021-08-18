@@ -1,0 +1,11 @@
+portfolio:
+  enable : true
+  title : "Portfolio"
+  item_show : 10
+
+
+  # client logo slider
+clients_logo_slider:
+  enable : false
+  title : "My Clients"
+  # clients logo comes from 'data/homepage.yml' file

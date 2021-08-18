@@ -34,7 +34,7 @@ name = "About"
 weight = 1
 
 [[menu.main]]
-URL = "produk"
+URL = "https://facebook.com/ar.oimkun22"
 name = "Produk"
 weight = 2
 

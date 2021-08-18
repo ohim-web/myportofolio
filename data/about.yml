@@ -3,7 +3,7 @@ work_process:
   enable : true
   title : "Proses Kerja"
   item:
-  - title : ""
+  - title : "Mengirim Informasi Brief"
     icon : "images/icons/plan.png"
     content : ""
     
